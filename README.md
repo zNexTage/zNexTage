@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Christian.
-- ✨ 22 anos.
-- 🎇 Atualmente sou estagiário e estudante.
+- ✨ 23 anos.
+- 🎇 Atualmente sou desenvolvedor fullstack.
 - 🔭 Trabalho com o desenvolvimento de aplicações backend (Django) e frontend (React) na empresa LSI-TEC. 
 - 🌱 Estudando HTML, CSS, Javascript, Typescript, React, Django e Node.
 
