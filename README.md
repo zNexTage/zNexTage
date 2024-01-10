@@ -2,7 +2,7 @@
 - ✨ 24 anos.
 - 🎇 Atualmente sou desenvolvedor web.
 - 🔭 Trabalho com o desenvolvimento de aplicações backend (Django) e frontend (React) na empresa LSI-TEC. 
-- 🌱 Estudando HTML, CSS, Javascript, Typescript, React, Django, Node e .NET.
+- 🌱 Estudando HTML, CSS, Javascript, Typescript, React, Django, e .NET.
 
  <div>
   <a href="https://github.com/zNexTage">
