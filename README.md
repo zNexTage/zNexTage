@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Christian.
-- ✨ 24 anos.
-- 🎇 Atualmente sou desenvolvedor web.
-- 🔭 Trabalho com o desenvolvimento de aplicações backend (Django) e frontend (React) na empresa LSI-TEC. 
-- 🌱 Estudando React, Django, e .NET.
+- ✨ 25 anos.
+- 🎇 Atualmente sou analista de sistemas júnior.
+- 🔭 Atuo na Sustentação, promovendo melhorias e correções para os sistemas internos e externos da Fundação Bradesco. 
+- 🌱 Estudando .NET Core, Azure, SQL Server.
 
  <div>
   <a href="https://github.com/zNexTage">
