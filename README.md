@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Christian.
 - ✨ 25 anos.
-- 🎇 Atualmente sou analista de sistemas júnior.
+- 🎇 Atualmente sou analista de sistemas.
 - 🔭 Atuo na Sustentação, promovendo melhorias e correções para os sistemas internos e externos da Fundação Bradesco. 
 - 🌱 Estudando .NET Core, Azure, SQL Server.
 
